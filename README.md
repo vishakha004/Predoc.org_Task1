@@ -13,13 +13,10 @@ All code here is written and run in Stata BE (Basic Edition). It is recommended 
 ## How to Run
 
 **Step 1:**
-Download the Week 1 Assignment folder. Make sure to store all data sets as named in the repository.
+Download the Instructions PDF and the raw_data folder. Make sure to store all data sets as named in the repository.
 
 **Step 2:**
 Set the folder the data is stored in as Working Directory. Note that all Stata scripts must be created in the same Working Directory.
 
 **Step 3:**
-Download the cleaning_and_merging.do file, and open it in Stata. Set the Working Directory as on your machine, and run the script to get cleaned and merged data sets.
-
-**Step 4:**
-Download the desc_stats_and_visualisation.do file, and open it in Stata. Set the Working Directory as on your machine, and run the script to get the summary statistics and graphs.
+Download the do_file.do, and open it in Stata. Set the Working Directory as on your machine, and run the script to get cleaned and merged data set, as well as the solutions to the given problems. The Solutions PDF compiles all these answers. 
